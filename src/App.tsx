@@ -49,7 +49,7 @@ function App() {
       <div className="min-h-screen bg-white flex items-center justify-center p-4">
         <div style={{ backgroundColor: '#FFE1FA' }} className="w-full max-w-2xl rounded-2xl p-8">
           <div className="space-y-6">
-            <h1 className="text-2xl font-bold text-gray-900">DMCA Anmälan #2024-03-19-001</h1>
+            <h1 className="text-2xl font-bold text-gray-900">DMCA Anmälan #2025-01-26-001</h1>
             
             <div className="bg-white rounded-lg p-6 space-y-4">
               <div>
@@ -59,7 +59,7 @@ function App() {
               
               <div>
                 <h2 className="font-semibold text-gray-900">Gällande:</h2>
-                <p>Recension på ert hotell publicerad 2024-03-18</p>
+                <p>Recension på ert hotell publicerad 2025-01-26</p>
               </div>
               
               <div>
